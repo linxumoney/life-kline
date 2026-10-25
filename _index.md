@@ -1,0 +1,1 @@
+# life-kline：用人生事件驱动蜡烛K线叙事视频的通用 agent skill。`r`n- [技能说明](SKILL.md)`r`n- [使用说明](README.md)`r`n- [许可证](LICENSE)`r`n- [渲染模板](assets/index.html)`r`n- [示例参数](assets/example.json)`r`n- [渲染脚本](scripts/render.py)
